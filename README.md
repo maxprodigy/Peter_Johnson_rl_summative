@@ -7,7 +7,7 @@ This repository contains my ALU Machine Learning Techniques II summative assignm
 
 ## Demo Video
 
-[Watch the simulation in action here!](YOUR_VIDEO_LINK_HERE)
+[Watch the simulation in action here!](https://youtu.be/sAgsZt0HxjU)
 
 ---
 
@@ -104,6 +104,6 @@ If you reuse, please cite or credit appropriately.
 
 ---
 
-*For detailed results, graphs, and further discussion, please see my full [assignment report](./report.pdf).*
+*For detailed results, graphs, and further discussion, please see my full [assignment report](https://github.com/maxprodigy/Peter_Johnson_rl_summative/blob/main/environment/%5BPeter%20Johnson%5D%20Machine_Learning_Techniques_II%20-%20Summative_Assignment%20-%20Report.pdf).*
 
 ---
