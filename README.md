@@ -22,7 +22,7 @@ This project simulates a digital learning journey for young African creatives. T
 
 ## Environment Visualization
 
-![Your Alt Text](models/Model%20Comparison.png)
+![Your Alt Text](environment/environment.png)
 
 The grid environment is rendered in real time using OpenGL.  
 Key features:
