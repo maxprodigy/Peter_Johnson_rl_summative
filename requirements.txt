@@ -1,0 +1,5 @@
+gymnasium
+numpy
+pyopengl
+pyopengl_accelerate
+stable-baselines3
