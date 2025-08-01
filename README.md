@@ -7,7 +7,7 @@ This repository contains my ALU Machine Learning Techniques II summative assignm
 
 ## Demo Video
 
-[Watch the simulation in action here!](https://youtu.be/sAgsZt0HxjU)
+[Watch the simulation in action here!](https://youtu.be/QYTdKE5QvZY)
 
 ---
 
